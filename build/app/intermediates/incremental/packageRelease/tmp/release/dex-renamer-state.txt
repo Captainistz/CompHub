@@ -1,0 +1,4 @@
+#Sat Aug 22 09:11:37 ICT 2020
+base.0=C\:\\Users\\ACER\\Documents\\Proj\\CompHub\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
